@@ -3,7 +3,7 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 40px 48px;
-    grid-template-rows: auto ;
+    grid-template-rows: auto;
 }
   
 .places__place:first-child {
@@ -29,6 +29,6 @@
         margin-top: 48px;
         grid-template-columns: repeat(1, 1fr);
         grid-gap: 32px 32px;
-        grid-template-rows: auto ;
+        grid-template-rows: auto;
     }
   }
