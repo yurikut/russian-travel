@@ -11,6 +11,6 @@ HTML, CSS, методика БЭМ.
 
 **Ссылка на сайт**
 
-
+ https://yurikut.github.io/russian-travel/
 
 
