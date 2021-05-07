@@ -6,13 +6,13 @@
     text-align: center;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1023px) {
     .lead__title {
         font-size: 30px;
     }
 }
   
-@media screen and (max-width: 319px) {
+@media screen and (max-width: 767px) {
     .lead__title {
         line-height: 1.1;
     }

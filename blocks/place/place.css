@@ -10,21 +10,21 @@
     margin-top: 0;
 }
   
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
     .place {
         margin-top: 97px;
         grid-gap: 32px 48px;
     }
 }
   
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
     .place {
         margin-top: 72px;
         grid-gap: 28px 48px;
     }
 }
   
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
     .place {
         margin-top: 48px;
         grid-template-columns: repeat(1, 1fr);
